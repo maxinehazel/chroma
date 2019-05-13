@@ -16,5 +16,4 @@ var Rrt = Register(chroma.MustNewStyle("rrt", chroma.StyleEntries{
 	chroma.NameFunction:        "#ffff00",
 	chroma.NameConstant:        "#7fffd4",
 	chroma.NameVariable:        "#eedd82",
-	chroma.Background:          "#f8f8f2 bg:#000000",
 }))
