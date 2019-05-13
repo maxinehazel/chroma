@@ -1,10 +1,10 @@
 package m
 
 import (
-	. "github.com/alecthomas/chroma"          // nolint
-	. "github.com/alecthomas/chroma/lexers/h" // nolint
-	"github.com/alecthomas/chroma/lexers/internal"
-	. "github.com/alecthomas/chroma/lexers/p" // nolint
+	. "github.com/maxinekrebs/chroma"          // nolint
+	. "github.com/maxinekrebs/chroma/lexers/h" // nolint
+	"github.com/maxinekrebs/chroma/lexers/internal"
+	. "github.com/maxinekrebs/chroma/lexers/p" // nolint
 )
 
 // Mason lexer.

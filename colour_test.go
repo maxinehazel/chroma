@@ -3,7 +3,7 @@ package chroma
 import (
 	"testing"
 
-	"github.com/alecthomas/assert"
+	"github.com/maxinekrebs/assert"
 )
 
 func TestColourRGB(t *testing.T) {

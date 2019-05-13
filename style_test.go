@@ -3,7 +3,7 @@ package chroma
 import (
 	"testing"
 
-	"github.com/alecthomas/assert"
+	"github.com/maxinekrebs/assert"
 )
 
 func TestStyleInherit(t *testing.T) {

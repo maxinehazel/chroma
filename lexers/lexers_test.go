@@ -8,13 +8,13 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/alecthomas/assert"
-	"github.com/alecthomas/chroma"
-	"github.com/alecthomas/chroma/formatters"
-	"github.com/alecthomas/chroma/lexers"
-	"github.com/alecthomas/chroma/lexers/a"
-	"github.com/alecthomas/chroma/lexers/x"
-	"github.com/alecthomas/chroma/styles"
+	"github.com/maxinekrebs/assert"
+	"github.com/maxinekrebs/chroma"
+	"github.com/maxinekrebs/chroma/formatters"
+	"github.com/maxinekrebs/chroma/lexers"
+	"github.com/maxinekrebs/chroma/lexers/a"
+	"github.com/maxinekrebs/chroma/lexers/x"
+	"github.com/maxinekrebs/chroma/styles"
 )
 
 func TestCompileAllRegexes(t *testing.T) {

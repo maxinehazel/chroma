@@ -4,7 +4,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/alecthomas/chroma/quick"
+	"github.com/maxinekrebs/chroma/quick"
 )
 
 func Example() {

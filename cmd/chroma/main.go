@@ -13,15 +13,15 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/alecthomas/kong"
+	"github.com/maxinekrebs/kong"
 	"github.com/mattn/go-colorable"
 	"github.com/mattn/go-isatty"
 
-	"github.com/alecthomas/chroma"
-	"github.com/alecthomas/chroma/formatters"
-	"github.com/alecthomas/chroma/formatters/html"
-	"github.com/alecthomas/chroma/lexers"
-	"github.com/alecthomas/chroma/styles"
+	"github.com/maxinekrebs/chroma"
+	"github.com/maxinekrebs/chroma/formatters"
+	"github.com/maxinekrebs/chroma/formatters/html"
+	"github.com/maxinekrebs/chroma/lexers"
+	"github.com/maxinekrebs/chroma/styles"
 )
 
 var (

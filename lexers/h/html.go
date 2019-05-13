@@ -1,10 +1,10 @@
 package h
 
 import (
-	. "github.com/alecthomas/chroma"          // nolint
-	. "github.com/alecthomas/chroma/lexers/c" // nolint
-	"github.com/alecthomas/chroma/lexers/internal"
-	. "github.com/alecthomas/chroma/lexers/j" // nolint
+	. "github.com/maxinekrebs/chroma"          // nolint
+	. "github.com/maxinekrebs/chroma/lexers/c" // nolint
+	"github.com/maxinekrebs/chroma/lexers/internal"
+	. "github.com/maxinekrebs/chroma/lexers/j" // nolint
 )
 
 // HTML lexer.

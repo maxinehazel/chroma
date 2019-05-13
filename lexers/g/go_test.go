@@ -3,8 +3,8 @@ package g
 import (
 	"testing"
 
-	"github.com/alecthomas/assert"
-	"github.com/alecthomas/chroma"
+	"github.com/maxinekrebs/assert"
+	"github.com/maxinekrebs/chroma"
 )
 
 func TestGoHTMLTemplateIssue126(t *testing.T) {

@@ -5,10 +5,10 @@ import (
 	"io/ioutil"
 	"os"
 
-	"github.com/alecthomas/chroma/formatters"
-	"github.com/alecthomas/chroma/lexers"
-	"github.com/alecthomas/chroma/styles"
-	"gopkg.in/alecthomas/kingpin.v3-unstable"
+	"github.com/maxinekrebs/chroma/formatters"
+	"github.com/maxinekrebs/chroma/lexers"
+	"github.com/maxinekrebs/chroma/styles"
+	"gopkg.in/maxinekrebs/kingpin.v3-unstable"
 )
 
 var (

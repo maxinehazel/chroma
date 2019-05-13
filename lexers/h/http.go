@@ -3,8 +3,8 @@ package h
 import (
 	"strings"
 
-	. "github.com/alecthomas/chroma" // nolint
-	"github.com/alecthomas/chroma/lexers/internal"
+	. "github.com/maxinekrebs/chroma" // nolint
+	"github.com/maxinekrebs/chroma/lexers/internal"
 )
 
 // HTTP lexer.
