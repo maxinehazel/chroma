@@ -77,5 +77,4 @@ var Dracula = Register(chroma.MustNewStyle("dracula", chroma.StyleEntries{
 	chroma.LiteralStringSymbol:      "#f1fa8c",
 	chroma.Text:                     "#f8f8f2",
 	chroma.TextWhitespace:           "#f8f8f2",
-	chroma.Background:               " bg:#282a36",
 }))
