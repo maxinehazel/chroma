@@ -6,7 +6,6 @@ import (
 
 // SwapOff theme.
 var SwapOff = Register(chroma.MustNewStyle("swapoff", map[chroma.TokenType]string{
-	chroma.Background:        "#lightgray bg:#black",
 	chroma.Number:            "bold #ansiyellow",
 	chroma.Comment:           "#ansiteal",
 	chroma.CommentPreproc:    "bold #ansigreen",

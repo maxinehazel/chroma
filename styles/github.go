@@ -47,5 +47,4 @@ var GitHub = Register(chroma.MustNewStyle("github", chroma.StyleEntries{
 	chroma.NameVariable:         "#008080",
 	chroma.Operator:             "bold #000000",
 	chroma.TextWhitespace:       "#bbbbbb",
-	chroma.Background:           " bg:#ffffff",
 }))

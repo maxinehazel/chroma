@@ -55,5 +55,4 @@ var Murphy = Register(chroma.MustNewStyle("murphy", chroma.StyleEntries{
 	chroma.GenericTraceback:      "#04D",
 	chroma.GenericUnderline:      "underline",
 	chroma.Error:                 "#F00 bg:#FAA",
-	chroma.Background:            " bg:#ffffff",
 }))

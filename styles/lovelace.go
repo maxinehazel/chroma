@@ -56,5 +56,4 @@ var Lovelace = Register(chroma.MustNewStyle("lovelace", chroma.StyleEntries{
 	chroma.GenericTraceback:       "#2838b0",
 	chroma.GenericUnderline:       "underline",
 	chroma.Error:                  "bg:#a848a8",
-	chroma.Background:             " bg:#ffffff",
 }))

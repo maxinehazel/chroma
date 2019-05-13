@@ -20,5 +20,4 @@ var SolarizedLight = Register(chroma.MustNewStyle("solarized-light", chroma.Styl
 	chroma.OperatorWord:     "#859900",
 	chroma.Comment:          "#93a1a1 italic",
 	chroma.Generic:          "#d33682",
-	chroma.Background:       " bg:#eee8d5",
 }))

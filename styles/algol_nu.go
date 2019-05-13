@@ -21,5 +21,4 @@ var AlgolNu = Register(chroma.MustNewStyle("algol_nu", chroma.StyleEntries{
 	chroma.OperatorWord:       "bold",
 	chroma.LiteralString:      "italic #666",
 	chroma.Error:              "border:#FF0000",
-	chroma.Background:         " bg:#ffffff",
 }))

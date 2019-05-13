@@ -47,5 +47,4 @@ var Friendly = Register(chroma.MustNewStyle("friendly", chroma.StyleEntries{
 	chroma.GenericTraceback:      "#04D",
 	chroma.GenericUnderline:      "underline",
 	chroma.Error:                 "border:#FF0000",
-	chroma.Background:            " bg:#f0f0f0",
 }))

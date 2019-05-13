@@ -47,5 +47,4 @@ var Manni = Register(chroma.MustNewStyle("manni", chroma.StyleEntries{
 	chroma.GenericTraceback:      "#99CC66",
 	chroma.GenericUnderline:      "underline",
 	chroma.Error:                 "bg:#FFAAAA #AA0000",
-	chroma.Background:            " bg:#f0f3f3",
 }))

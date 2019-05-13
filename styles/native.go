@@ -6,7 +6,6 @@ import (
 
 // Native style.
 var Native = Register(chroma.MustNewStyle("native", chroma.StyleEntries{
-	chroma.Background:         "#d0d0d0 bg:#202020",
 	chroma.TextWhitespace:     "#666666",
 	chroma.Comment:            "italic #999999",
 	chroma.CommentPreproc:     "noitalic bold #cd2828",

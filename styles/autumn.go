@@ -39,5 +39,4 @@ var Autumn = Register(chroma.MustNewStyle("autumn", chroma.StyleEntries{
 	chroma.GenericTraceback:    "#aa0000",
 	chroma.GenericUnderline:    "underline",
 	chroma.Error:               "#F00 bg:#FAA",
-	chroma.Background:          " bg:#ffffff",
 }))

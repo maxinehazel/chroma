@@ -43,5 +43,4 @@ var RainbowDash = Register(chroma.MustNewStyle("rainbow_dash", chroma.StyleEntri
 	chroma.LiteralStringSymbol: "bold #c5060b",
 	chroma.Text:                "#4d4d4d",
 	chroma.TextWhitespace:      "#cbcbcb",
-	chroma.Background:          " bg:#ffffff",
 }))

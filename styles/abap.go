@@ -14,5 +14,4 @@ var Abap = Register(chroma.MustNewStyle("abap", chroma.StyleEntries{
 	chroma.LiteralNumber:  "#3af",
 	chroma.LiteralString:  "#5a2",
 	chroma.Error:          "#F00",
-	chroma.Background:     " bg:#ffffff",
 }))

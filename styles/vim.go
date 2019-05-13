@@ -6,7 +6,6 @@ import (
 
 // Vim style.
 var Vim = Register(chroma.MustNewStyle("vim", chroma.StyleEntries{
-	chroma.Background:         "#cccccc bg:#000000",
 	chroma.Comment:            "#000080",
 	chroma.CommentSpecial:     "bold #cd0000",
 	chroma.Keyword:            "#cdcd00",

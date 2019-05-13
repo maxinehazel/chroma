@@ -29,5 +29,4 @@ var MonokaiLight = Register(chroma.MustNewStyle("monokailight", chroma.StyleEntr
 	chroma.LiteralStringEscape: "#8045FF",
 	chroma.GenericEmph:         "italic",
 	chroma.GenericStrong:       "bold",
-	chroma.Background:          " bg:#fafafa",
 }))

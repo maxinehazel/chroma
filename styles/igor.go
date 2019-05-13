@@ -12,5 +12,4 @@ var Igor = Register(chroma.MustNewStyle("igor", chroma.StyleEntries{
 	chroma.NameDecorator: "#CC00A3",
 	chroma.NameClass:     "#007575",
 	chroma.LiteralString: "#009C00",
-	chroma.Background:    " bg:#ffffff",
 }))

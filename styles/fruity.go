@@ -7,7 +7,6 @@ import (
 // Fruity style.
 var Fruity = Register(chroma.MustNewStyle("fruity", chroma.StyleEntries{
 	chroma.TextWhitespace:    "#888888",
-	chroma.Background:        "#ffffff bg:#111111",
 	chroma.GenericOutput:     "#444444 bg:#222222",
 	chroma.Keyword:           "#fb660a bold",
 	chroma.KeywordPseudo:     "nobold",

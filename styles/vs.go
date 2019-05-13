@@ -19,5 +19,4 @@ var VisualStudio = Register(chroma.MustNewStyle("vs", chroma.StyleEntries{
 	chroma.GenericStrong:     "bold",
 	chroma.GenericPrompt:     "bold",
 	chroma.Error:             "border:#FF0000",
-	chroma.Background:        " bg:#ffffff",
 }))

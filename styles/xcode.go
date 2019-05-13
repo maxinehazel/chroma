@@ -25,5 +25,4 @@ var Xcode = Register(chroma.MustNewStyle("xcode", chroma.StyleEntries{
 	chroma.Literal:           "#1C01CE",
 	chroma.LiteralNumber:     "#1C01CE",
 	chroma.Error:             "#000000",
-	chroma.Background:        " bg:#ffffff",
 }))

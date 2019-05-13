@@ -29,5 +29,4 @@ var Borland = Register(chroma.MustNewStyle("borland", chroma.StyleEntries{
 	chroma.GenericTraceback:  "#aa0000",
 	chroma.GenericUnderline:  "underline",
 	chroma.Error:             "bg:#e3d2d2 #a61717",
-	chroma.Background:        " bg:#ffffff",
 }))

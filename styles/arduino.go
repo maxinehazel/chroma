@@ -21,5 +21,4 @@ var Arduino = Register(chroma.MustNewStyle("arduino", chroma.StyleEntries{
 	chroma.NameOther:       "#728E00",
 	chroma.LiteralNumber:   "#8A7B52",
 	chroma.LiteralString:   "#7F8C8D",
-	chroma.Background:      " bg:#ffffff",
 }))
