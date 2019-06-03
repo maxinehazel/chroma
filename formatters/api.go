@@ -4,8 +4,8 @@ import (
 	"io"
 	"sort"
 
-	"github.com/maxinekrebs/chroma"
-	"github.com/maxinekrebs/chroma/formatters/html"
+	"github.com/softpunks/chroma"
+	"github.com/softpunks/chroma/formatters/html"
 )
 
 var (

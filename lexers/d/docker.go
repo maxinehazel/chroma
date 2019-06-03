@@ -1,9 +1,9 @@
 package d
 
 import (
-	. "github.com/maxinekrebs/chroma" // nolint
-	. "github.com/maxinekrebs/chroma/lexers/b"
-	"github.com/maxinekrebs/chroma/lexers/internal"
+	. "github.com/softpunks/chroma" // nolint
+	. "github.com/softpunks/chroma/lexers/b"
+	"github.com/softpunks/chroma/lexers/internal"
 )
 
 // Docker lexer.

@@ -8,16 +8,16 @@ import (
 
 	"github.com/aymerick/douceur/css"
 	"github.com/aymerick/douceur/parser"
-	"gopkg.in/maxinekrebs/kingpin.v3-unstable"
+	"gopkg.in/softpunks/kingpin.v3-unstable"
 
-	"github.com/maxinekrebs/chroma"
+	"github.com/softpunks/chroma"
 )
 
 const (
 	outputTemplate = `package styles
 
 import (
-	"github.com/maxinekrebs/chroma"
+	"github.com/softpunks/chroma"
 )
 
 // {{.Name}} style.

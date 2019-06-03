@@ -1,7 +1,7 @@
 package styles
 
 import (
-	"github.com/maxinekrebs/chroma"
+	"github.com/softpunks/chroma"
 )
 
 // MonokaiLight style.

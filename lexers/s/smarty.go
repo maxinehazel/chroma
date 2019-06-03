@@ -1,9 +1,9 @@
 package s
 
 import (
-	. "github.com/maxinekrebs/chroma"                 // nolint
-	. "github.com/maxinekrebs/chroma/lexers/circular" // nolint
-	"github.com/maxinekrebs/chroma/lexers/internal"
+	. "github.com/softpunks/chroma"                 // nolint
+	. "github.com/softpunks/chroma/lexers/circular" // nolint
+	"github.com/softpunks/chroma/lexers/internal"
 )
 
 // Smarty lexer.

@@ -3,9 +3,9 @@ package lexers_test
 import (
 	"testing"
 
-	"github.com/maxinekrebs/assert"
-	"github.com/maxinekrebs/chroma"
-	"github.com/maxinekrebs/chroma/lexers/g"
+	"github.com/softpunks/assert"
+	"github.com/softpunks/chroma"
+	"github.com/softpunks/chroma/lexers/g"
 )
 
 const lexerBenchSource = `// Copyright 2011 The Go Authors. All rights reserved.

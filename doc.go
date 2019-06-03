@@ -3,5 +3,5 @@
 //
 // Chroma is based heavily on Pygments, and includes translators for Pygments lexers and styles.
 //
-// For more information, go here: https://github.com/maxinekrebs/chroma
+// For more information, go here: https://github.com/softpunks/chroma
 package chroma

@@ -15,8 +15,8 @@ TEMPLATE = r'''
 package lexers
 
 import (
-    . "github.com/maxinekrebs/chroma" // nolint
-    "github.com/maxinekrebs/chroma/lexers/internal"
+    . "github.com/softpunks/chroma" // nolint
+    "github.com/softpunks/chroma/lexers/internal"
 )
 
 // {{upper_name}} lexer.

@@ -7,11 +7,11 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/maxinekrebs/assert"
+	"github.com/softpunks/assert"
 
-	"github.com/maxinekrebs/chroma"
-	"github.com/maxinekrebs/chroma/lexers"
-	"github.com/maxinekrebs/chroma/styles"
+	"github.com/softpunks/chroma"
+	"github.com/softpunks/chroma/lexers"
+	"github.com/softpunks/chroma/styles"
 )
 
 func TestCompressStyle(t *testing.T) {

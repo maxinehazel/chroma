@@ -5,10 +5,10 @@ import (
 	"io/ioutil"
 	"os"
 
-	"github.com/maxinekrebs/chroma/formatters"
-	"github.com/maxinekrebs/chroma/lexers"
-	"github.com/maxinekrebs/chroma/styles"
-	"gopkg.in/maxinekrebs/kingpin.v3-unstable"
+	"github.com/softpunks/chroma/formatters"
+	"github.com/softpunks/chroma/lexers"
+	"github.com/softpunks/chroma/styles"
+	"gopkg.in/softpunks/kingpin.v3-unstable"
 )
 
 var (
