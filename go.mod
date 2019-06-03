@@ -1,4 +1,4 @@
-module github.com/maxinekrebs/chroma
+module github.com/softpunks/chroma
 
 require (
 	github.com/aymerick/douceur v0.2.0
