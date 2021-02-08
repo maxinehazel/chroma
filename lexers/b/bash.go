@@ -3,8 +3,8 @@ package b
 import (
 	"regexp"
 
-	. "github.com/softpunks/chroma" // nolint
-	"github.com/softpunks/chroma/lexers/internal"
+	. "github.com/maxinehazel/chroma" // nolint
+	"github.com/maxinehazel/chroma/lexers/internal"
 )
 
 var bashAnalyserRe = regexp.MustCompile(`(?m)^#!.*/bin/(?:env |)(?:bash|zsh|sh|ksh)`)

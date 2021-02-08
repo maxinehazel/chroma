@@ -3,8 +3,8 @@ package n
 import (
 	"strings"
 
-	. "github.com/softpunks/chroma" // nolint
-	"github.com/softpunks/chroma/lexers/internal"
+	. "github.com/maxinehazel/chroma" // nolint
+	"github.com/maxinehazel/chroma/lexers/internal"
 )
 
 // nixb matches right boundary of a nix word. Use it instead of \b.

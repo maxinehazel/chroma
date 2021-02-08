@@ -3,9 +3,9 @@ package circular
 import (
 	"strings"
 
-	. "github.com/softpunks/chroma" // nolint
-	"github.com/softpunks/chroma/lexers/h"
-	"github.com/softpunks/chroma/lexers/internal"
+	. "github.com/maxinehazel/chroma" // nolint
+	"github.com/maxinehazel/chroma/lexers/h"
+	"github.com/maxinehazel/chroma/lexers/internal"
 )
 
 // PHP lexer.

@@ -1,9 +1,9 @@
 package c
 
 import (
-	. "github.com/softpunks/chroma" // nolint
-	"github.com/softpunks/chroma/lexers/internal"
-	. "github.com/softpunks/chroma/lexers/p" // nolint
+	. "github.com/maxinehazel/chroma" // nolint
+	"github.com/maxinehazel/chroma/lexers/internal"
+	. "github.com/maxinehazel/chroma/lexers/p" // nolint
 )
 
 // Cheetah lexer.

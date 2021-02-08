@@ -4,8 +4,8 @@ import (
 	"io"
 	"sort"
 
-	"github.com/softpunks/chroma"
-	"github.com/softpunks/chroma/formatters/html"
+	"github.com/maxinehazel/chroma"
+	"github.com/maxinehazel/chroma/formatters/html"
 )
 
 var (

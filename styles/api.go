@@ -3,7 +3,7 @@ package styles
 import (
 	"sort"
 
-	"github.com/softpunks/chroma"
+	"github.com/maxinehazel/chroma"
 )
 
 // Registry of Styles.

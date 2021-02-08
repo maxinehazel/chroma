@@ -8,13 +8,13 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/softpunks/assert"
-	"github.com/softpunks/chroma"
-	"github.com/softpunks/chroma/formatters"
-	"github.com/softpunks/chroma/lexers"
-	"github.com/softpunks/chroma/lexers/a"
-	"github.com/softpunks/chroma/lexers/x"
-	"github.com/softpunks/chroma/styles"
+	"github.com/maxinehazel/assert"
+	"github.com/maxinehazel/chroma"
+	"github.com/maxinehazel/chroma/formatters"
+	"github.com/maxinehazel/chroma/lexers"
+	"github.com/maxinehazel/chroma/lexers/a"
+	"github.com/maxinehazel/chroma/lexers/x"
+	"github.com/maxinehazel/chroma/styles"
 )
 
 func TestCompileAllRegexes(t *testing.T) {

@@ -3,8 +3,8 @@ package s
 import (
 	"fmt"
 
-	. "github.com/softpunks/chroma" // nolint
-	"github.com/softpunks/chroma/lexers/internal"
+	. "github.com/maxinehazel/chroma" // nolint
+	"github.com/maxinehazel/chroma/lexers/internal"
 )
 
 var (

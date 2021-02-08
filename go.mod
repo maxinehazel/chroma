@@ -1,4 +1,4 @@
-module github.com/softpunks/chroma
+module github.com/maxinehazel/chroma
 
 require (
 	github.com/aymerick/douceur v0.2.0
@@ -9,3 +9,5 @@ require (
 	github.com/mattn/go-isatty v0.0.4
 	golang.org/x/sys v0.0.0-20181128092732-4ed8d59d0b35 // indirect
 )
+
+go 1.13

@@ -13,15 +13,15 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/softpunks/kong"
+	"github.com/maxinehazel/kong"
 	"github.com/mattn/go-colorable"
 	"github.com/mattn/go-isatty"
 
-	"github.com/softpunks/chroma"
-	"github.com/softpunks/chroma/formatters"
-	"github.com/softpunks/chroma/formatters/html"
-	"github.com/softpunks/chroma/lexers"
-	"github.com/softpunks/chroma/styles"
+	"github.com/maxinehazel/chroma"
+	"github.com/maxinehazel/chroma/formatters"
+	"github.com/maxinehazel/chroma/formatters/html"
+	"github.com/maxinehazel/chroma/lexers"
+	"github.com/maxinehazel/chroma/styles"
 )
 
 var (

@@ -1,10 +1,10 @@
 package h
 
 import (
-	. "github.com/softpunks/chroma"          // nolint
-	. "github.com/softpunks/chroma/lexers/c" // nolint
-	"github.com/softpunks/chroma/lexers/internal"
-	. "github.com/softpunks/chroma/lexers/j" // nolint
+	. "github.com/maxinehazel/chroma"          // nolint
+	. "github.com/maxinehazel/chroma/lexers/c" // nolint
+	"github.com/maxinehazel/chroma/lexers/internal"
+	. "github.com/maxinehazel/chroma/lexers/j" // nolint
 )
 
 // HTML lexer.

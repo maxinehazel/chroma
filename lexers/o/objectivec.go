@@ -1,8 +1,8 @@
 package o
 
 import (
-	. "github.com/softpunks/chroma" // nolint
-	"github.com/softpunks/chroma/lexers/internal"
+	. "github.com/maxinehazel/chroma" // nolint
+	"github.com/maxinehazel/chroma/lexers/internal"
 )
 
 // Objective-C lexer.

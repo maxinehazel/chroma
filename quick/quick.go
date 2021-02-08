@@ -4,10 +4,10 @@ package quick
 import (
 	"io"
 
-	"github.com/softpunks/chroma"
-	"github.com/softpunks/chroma/formatters"
-	"github.com/softpunks/chroma/lexers"
-	"github.com/softpunks/chroma/styles"
+	"github.com/maxinehazel/chroma"
+	"github.com/maxinehazel/chroma/formatters"
+	"github.com/maxinehazel/chroma/lexers"
+	"github.com/maxinehazel/chroma/styles"
 )
 
 // Highlight some text.
